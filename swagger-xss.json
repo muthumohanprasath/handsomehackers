@@ -1,8 +1,8 @@
 {
-    "url": "https://github.com/muthumohanprasath/handsomehackers/blob/master/payload.yaml",
+    "url": "https://raw.githubusercontent.com/muthumohanprasath/handsomehackers/master/payload.yaml",
     "urls": [
         {
-            "url": "https://github.com/muthumohanprasath/handsomehackers/blob/master/payload.yaml",
+            "url": "https://raw.githubusercontent.com/muthumohanprasath/handsomehackers/master/payload.yaml",
             "name": "Foo"
         }
     ]
